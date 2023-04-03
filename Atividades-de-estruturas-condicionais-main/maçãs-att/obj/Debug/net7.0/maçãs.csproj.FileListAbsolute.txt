@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\maçãs\bin\Debug\net7.0\maçãs.exe
+C:\Users\47349403801\Desktop\maçãs\bin\Debug\net7.0\maçãs.deps.json
+C:\Users\47349403801\Desktop\maçãs\bin\Debug\net7.0\maçãs.runtimeconfig.json
+C:\Users\47349403801\Desktop\maçãs\bin\Debug\net7.0\maçãs.dll
+C:\Users\47349403801\Desktop\maçãs\bin\Debug\net7.0\maçãs.pdb
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.dll
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\refint\maçãs.dll
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.pdb
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\maçãs.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\maçãs\obj\Debug\net7.0\ref\maçãs.dll

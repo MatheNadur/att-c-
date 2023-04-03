@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\frequencia e media\bin\Debug\net7.0\frequencia e media.exe
+C:\Users\47349403801\Desktop\frequencia e media\bin\Debug\net7.0\frequencia e media.deps.json
+C:\Users\47349403801\Desktop\frequencia e media\bin\Debug\net7.0\frequencia e media.runtimeconfig.json
+C:\Users\47349403801\Desktop\frequencia e media\bin\Debug\net7.0\frequencia e media.dll
+C:\Users\47349403801\Desktop\frequencia e media\bin\Debug\net7.0\frequencia e media.pdb
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.dll
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\refint\frequencia e media.dll
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.pdb
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\frequencia e media.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\frequencia e media\obj\Debug\net7.0\ref\frequencia e media.dll

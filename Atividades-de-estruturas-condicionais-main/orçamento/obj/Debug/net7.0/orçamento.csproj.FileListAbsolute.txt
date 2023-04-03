@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\orçamento\bin\Debug\net7.0\orçamento.exe
+C:\Users\47349403801\Desktop\orçamento\bin\Debug\net7.0\orçamento.deps.json
+C:\Users\47349403801\Desktop\orçamento\bin\Debug\net7.0\orçamento.runtimeconfig.json
+C:\Users\47349403801\Desktop\orçamento\bin\Debug\net7.0\orçamento.dll
+C:\Users\47349403801\Desktop\orçamento\bin\Debug\net7.0\orçamento.pdb
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.dll
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\refint\orçamento.dll
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.pdb
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\orçamento.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\orçamento\obj\Debug\net7.0\ref\orçamento.dll
